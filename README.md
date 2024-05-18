@@ -15,18 +15,18 @@
 <p>Here you will find the screenshots (not interactive) of the report pages, as well as a screenshot of the dashboard (also not interactive). I had fun, and I hope you will enjoy it, too.</p>
 <p>![Report Home](raw.githubusercontent.com/NutmegAllAlong/Power-BI-Project/blob/1e7bb279baabb5cc08d5082560f6c9ab7bb89096/TWT_pg1.jpeg)
 <br>
-![Sales Overview]raw.githubusercontent.com/NutmegAllAlong/Power-BI-Project/blob/1e7bb279baabb5cc08d5082560f6c9ab7bb89096/Sales_Overview.jpeg)
+![Sales Overview](https://raw.githubusercontent.com/NutmegAllAlong/Power-BI-Project/blob/1e7bb279baabb5cc08d5082560f6c9ab7bb89096/Sales_Overview.jpeg)
 <br>
-![(Profit_Overview.jpeg)](raw.githubusercontent.com/NutmegAllAlong/Power-BI-Project/blob/1e7bb279baabb5cc08d5082560f6c9ab7bb89096/Profit_Overview.jpeg)
+![(Profit_Overview.jpeg)](https://raw.githubusercontent.com/NutmegAllAlong/Power-BI-Project/blob/1e7bb279baabb5cc08d5082560f6c9ab7bb89096/Profit_Overview.jpeg)
 <br>
-![Country Statistics](raw.githubusercontent.com/NutmegAllAlong/Power-BI-Project/blob/1e7bb279baabb5cc08d5082560f6c9ab7bb89096/Country_Statistics.jpeg)
+![Country Statistics](https://raw.githubusercontent.com/NutmegAllAlong/Power-BI-Project/blob/1e7bb279baabb5cc08d5082560f6c9ab7bb89096/Country_Statistics.jpeg)
 </p>
 </div>
 <div>
 <p><h3>Dashboard</h3>
 The Power BI dashboard is meant to give a 'bird's eye' view of the situation at a glance. I would not put so much on one page, but that was the assignment.
 </p>
-<p>![Dashboard](raw.githubusercontent.com/NutmegAllAlong/Power-BI-Project/blob/1e7bb279baabb5cc08d5082560f6c9ab7bb89096/Dashboard.jpeg)
+<p>![Dashboard](https://raw.githubusercontent.com/NutmegAllAlong/Power-BI-Project/blob/1e7bb279baabb5cc08d5082560f6c9ab7bb89096/Dashboard.jpeg)
 </p>
 </div>
   </body>
