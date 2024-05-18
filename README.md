@@ -3,31 +3,30 @@
   lang="en">
   <head>
     <meta charset="utf-8">
-#<h1>Power BI Project</h1>
-
+<h1>Power BI Project</h1>
   </head>
 
   <body  page-responsive" style="word-wrap: break-word;">
     <div page-responsive" style="word-wrap: break-word;">
 
 <header>
-  <h2 class="sr-only">TailWind Traders</h2>
+  <h2 class="sr-only">TailWind Traders</h2></header>
 <div>TailWindTraders project This is a project for a class I did not take, but found it interesting and so followed along to make a small project for my portfolio. This is a fictional company (in business only 2 months), and while I would not put so much on each page, that was apparently the assignment.</p>
 <p>Here you will find the screenshots (not interactive) of the report pages, as well as a screenshot of the dashboard (also not interactive). I had fun, and I hope you will enjoy it, too.</p>
-<p>![Report Home](https://premiumpeony-my.sharepoint.com/:i:/g/personal/carolynharris_premiumpeony_onmicrosoft_com/Ed8LoI5GkIJAmQn2bBx3viIBNJkhbO-bwh1e-5cPZTWeIw?e=yUNZQy)
+<p>![Report Home](https://github.com/NutmegAllAlong/Power-BI-Project/blob/1e7bb279baabb5cc08d5082560f6c9ab7bb89096/TWT_pg1.jpeg?raw=true)
 <br>
-![Sales Overview](https://premiumpeony-my.sharepoint.com/:i:/g/personal/carolynharris_premiumpeony_onmicrosoft_com/EXTXfXCjit5Ohluy9gwqKUsBty2iPysIq3lLsibqaeqOkA?e=obDH8f)
+![Sales Overview](https://github.com/NutmegAllAlong/Power-BI-Project/blob/1e7bb279baabb5cc08d5082560f6c9ab7bb89096/Sales_Overview.jpeg?raw=true)
 <br>
-![Profit Overview](https://premiumpeony-my.sharepoint.com/:i:/g/personal/carolynharris_premiumpeony_onmicrosoft_com/EcsNmeKMKNFNsSEmkNyeWuYB8qgNKdtZsP69dJqDHsCe5g?e=miWb9A)
+![(Profit_Overview.jpeg)](https://github.com/NutmegAllAlong/Power-BI-Project/blob/1e7bb279baabb5cc08d5082560f6c9ab7bb89096/Profit_Overview.jpeg?raw=true)
 <br>
-![Country Statistics](https://premiumpeony-my.sharepoint.com/:i:/g/personal/carolynharris_premiumpeony_onmicrosoft_com/EXJHIq_PmKZGruBMla9WHvMB2EEp3hhn4p-ka1d-_KusZQ?e=R3ElFZ)
+![Country Statistics](https://github.com/NutmegAllAlong/Power-BI-Project/blob/1e7bb279baabb5cc08d5082560f6c9ab7bb89096/Country_Statistics.jpeg?raw=true)
 </p>
 </div>
 <div>
 <p><h3>Dashboard</h3>
 The Power BI dashboard is meant to give a 'bird's eye' view of the situation at a glance. I would not put so much on one page, but that was the assignment.
 </p>
-<p>![enter image description here](https://premiumpeony-my.sharepoint.com/:i:/g/personal/carolynharris_premiumpeony_onmicrosoft_com/Ecmw_ZAGygZAjF1z14FnV5kB_mPBt6iofVKwcoiUShs5ng?e=pFKiFf)
+<p>![Dashboard](https://github.com/NutmegAllAlong/Power-BI-Project/blob/1e7bb279baabb5cc08d5082560f6c9ab7bb89096/Dashboard.jpeg?raw=true)
 </p>
 </div>
   </body>
